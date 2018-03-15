@@ -59,9 +59,11 @@ end
 **A.** No, it is not. Method #qux is private, what means that it cannot be called explicitly. Private methods can be called only in the context of the current object. 
 
 **Q.** What keyword do you use when you declare String data?
+
 **A.** Strings primarily exist within single (') or double (") quotes, so to create a string, it is necessary to enclose a sequence of characters in quotes, for example: "Hello, World!"
 
 **Q.** What is Enumerable?
+
 **A.** The Enumerable mixin provides collection classes with several traversal and searching methods, and with the ability to sort.
 
 **Q.** What will the method `#bar` send to the standard output? Why?
