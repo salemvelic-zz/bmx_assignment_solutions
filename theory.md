@@ -2,7 +2,7 @@
 
 **Q.** What type of inheritance does Ruby have?
 
-**A.**Ruby have only single inheritance, that means that class can only inherit from one class. 
+**A.** Ruby have only single inheritance, that means that class can only inherit from one class. 
 
 **Q.** Which iteration is more idiomatic?
 
