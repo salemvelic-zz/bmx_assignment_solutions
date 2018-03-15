@@ -3,6 +3,7 @@
 #However, he could be more productive if he wrote an algorithm to do the job for him.
 #So, you need to check if there is gold in the bucket, and if so, return True/true.
 # If not, return False/false.
+
 def check_the_bucket(bucket)
   bucket.include?("gold") ? true : false
 end
@@ -38,7 +39,7 @@ def count()
 	    puts "Buzz"
 	  else
 	    puts i 
-	  end
+	end
   end	
 end
 
